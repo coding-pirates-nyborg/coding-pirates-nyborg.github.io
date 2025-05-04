@@ -1,0 +1,90 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Indlæg
+  category: Kategori
+  tag: Tag
+
+# The tabs of sidebar
+tabs:
+  home: Hjem
+  categories: Kategorier
+  tags: Tags
+  archives: Arkiv
+  about: Om
+
+# the text displayed in the search bar & search results
+search:
+  hint: søg
+  cancel: Annuller
+  no_results: Ups! Ingen søgeresultater fundet.
+
+panel:
+  lastmod: Sidst opdateret
+  trending_tags: Populære tags
+  toc: Indhold
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Dette indlæg er udgivet under :LICENSE_NAME licensen af forfatteren.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Nogle rettigheder forbeholdes.
+  verbose: >-
+    Medmindre andet er angivet, er blogindlæggene på denne hjemmeside
+    licenseret under Creative Commons Attribution 4.0 International (CC BY 4.0) af forfatteren.
+
+meta: Bygget med :PLATFORM med temaet :THEME
+
+not_found:
+  statement: Beklager, vi har mistet denne URL, eller den peger på noget, der ikke længere findes.
+
+notification:
+  update_found: En ny version af indholdet er tilgængelig.
+  update: Opdater
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Af
+  posted: Udgivet
+  updated: Opdateret
+  words: ord
+  pageview_measure: visninger
+  read_time:
+    unit: min
+    prompt: læsning
+  relate_posts: Læs også
+  share: Del
+  button:
+    next: Nyere
+    previous: Ældre
+    copy_code:
+      succeed: Kopieret!
+    share_link:
+      title: Kopier link
+      succeed: Link kopieret!
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%d. %b %Y"
+    dayjs: "ll"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# categories page
+categories:
+  category_measure:
+    singular: kategori
+    plural: kategorier
+  post_measure:
+    singular: indlæg
+    plural: indlæg
