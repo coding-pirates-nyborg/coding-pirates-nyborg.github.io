@@ -19,30 +19,30 @@ tabs:
 search:
   hint: søg
   cancel: Annuller
-  no_results: Ups! Ingen søgeresultater fundet.
+  no_results: Ups! Ingen resultater fundet.
 
 panel:
-  lastmod: Sidst opdateret
+  lastmod: Senest opdateret
   trending_tags: Populære tags
   toc: Indhold
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Dette indlæg er udgivet under :LICENSE_NAME licensen af forfatteren.
+    template: Dette indlæg er licenseret under :LICENSE_NAME af forfatteren.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: Nogle rettigheder forbeholdes.
   verbose: >-
-    Medmindre andet er angivet, er blogindlæggene på denne hjemmeside
+    Medmindre andet er angivet, er blogindlæg på dette websted
     licenseret under Creative Commons Attribution 4.0 International (CC BY 4.0) af forfatteren.
 
-meta: Bygget med :PLATFORM med temaet :THEME
+meta: Powered by :PLATFORM with :THEME theme.
 
 not_found:
-  statement: Beklager, vi har mistet denne URL, eller den peger på noget, der ikke længere findes.
+  statment: Beklager, vi kunne ikke finde denne URL.
 
 notification:
   update_found: En ny version af indholdet er tilgængelig.
@@ -58,8 +58,8 @@ post:
   pageview_measure: visninger
   read_time:
     unit: min
-    prompt: læsning
-  relate_posts: Læs også
+    prompt: læsetid
+  relate_posts: Relaterede indlæg
   share: Del
   button:
     next: Nyere
@@ -75,13 +75,14 @@ post:
 df:
   post:
     strftime: "%d. %b %Y"
-    dayjs: "ll"
+    dayjs: "D. MMM YYYY"
   archives:
     strftime: "%b"
     dayjs: "MMM"
 
 # categories page
 categories:
+  category_path: "kategorier"
   category_measure:
     singular: kategori
     plural: kategorier

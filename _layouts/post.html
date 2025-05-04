@@ -9,7 +9,6 @@ tail_includes:
 script_includes:
   - comment
 ---
-
 {% include lang.html %}
 
 {% include toc-status.html %}
@@ -132,7 +131,9 @@ script_includes:
       <div class="post-meta mb-3">
         <i class="far fa-folder-open fa-fw me-1"></i>
         {% for category in page.categories %}
-          <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
+          <a href="{{ site.baseurl }}/{{ site.data.locales[lang].categories.category_path | default: 'categories' }}/{{ category | slugify | url_encode }}/">
+            {{- category -}}
+          </a>
           {%- unless forloop.last -%},{%- endunless -%}
         {% endfor %}
       </div>

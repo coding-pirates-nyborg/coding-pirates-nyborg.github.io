@@ -83,6 +83,7 @@ df:
 
 # categories page
 categories:
+  category_path: "categories"
   category_measure:
     singular: category
     plural: categories

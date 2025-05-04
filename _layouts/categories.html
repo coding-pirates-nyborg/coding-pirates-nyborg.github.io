@@ -2,7 +2,6 @@
 layout: page
 # All the Categories of posts
 ---
-
 {% include lang.html %}
 
 {% assign HEAD_PREFIX = 'h_' %}
@@ -41,8 +40,10 @@ layout: page
         <span class="ms-2">
           <i class="far fa-folder{% if sub_categories_size > 0 %}-open{% endif %} fa-fw"></i>
 
-          {% capture _category_url %}/categories/{{ category_name | slugify | url_encode }}/{% endcapture %}
-          <a href="{{ _category_url | relative_url }}" class="mx-2">{{ category_name }}</a>
+          {% capture _category_url -%}
+            /{{ site.data.locales[lang].categories.category_path | default: 'categories' }}/{{ category_name | slugify | url_encode }}/
+          {%- endcapture %}
+          <a href="{{ _category_url | strip | relative_url }}" class="mx-2">{{ category_name }}</a>
 
           <!-- content count -->
           {% assign top_posts_size = site.categories[category_name] | size %}
@@ -106,8 +107,10 @@ layout: page
               <li class="list-group-item">
                 <i class="far fa-folder fa-fw"></i>
 
-                {% capture _sub_ctg_url %}/categories/{{ sub_category | slugify | url_encode }}/{% endcapture %}
-                <a href="{{ _sub_ctg_url | relative_url }}" class="mx-2">{{ sub_category }}</a>
+                {% capture _sub_ctg_url -%}
+                  /{{ site.data.locales[lang].categories.category_path | default: 'categories' }}/{{ sub_category | slugify | url_encode }}/
+                {%- endcapture %}
+                <a href="{{ _sub_ctg_url | strip | relative_url }}" class="mx-2">{{ sub_category }}</a>
 
                 {% assign posts_size = site.categories[sub_category] | size %}
                 <span class="text-muted small font-weight-light">
