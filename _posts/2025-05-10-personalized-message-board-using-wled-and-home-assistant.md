@@ -7,7 +7,7 @@ author: kaptajn
 date: 2025-05-10 09:33:56 +0200
 categories: ['Tutorial']
 tags: ['HomeAssistant', 'ESP32', 'WLED']
-pin: true
+pin: false
 media_subpath: '/posts/20250510'
 ---
 
