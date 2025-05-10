@@ -14,16 +14,16 @@ timezone: Europe/Copenhagen
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Coding Pirates Nyborg # the main title
+title: *CPN* # the main title
 
-tagline: tbd! # it will display as the subtitle
+tagline: Coding Pirates Nyborg # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Coding Pirates Nyborg, Blog omkring tidligere og igangværende projekter.
+  Blog for tidligere og igangværende projekter
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://www.codered.wtf
+url: https://www.justhack.dk
 github:
   username: coding-pirates-nyborg # change to your GitHub username
 
@@ -34,7 +34,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Coding Pirates Nyborg
-  email: nyborgcodingpirates@gmail.com # change to your email address
+  email: codingpiratesnyborg@justhack.dk # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
