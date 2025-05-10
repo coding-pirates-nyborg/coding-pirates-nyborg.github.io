@@ -2,7 +2,7 @@
 title: Personalized message board using WLED and Home Assistant
 image: https://img.youtube.com/vi/ZlYSjxx5IRc/0.jpg
 description: >-
-  Scrolling text messages with Home Assistant and WLED matrix.
+  How to make scrolling text messages with Home Assistant and WLED matrix.
 author: kaptajn
 date: 2025-05-10 09:33:56 +0200
 categories: ['Tutorial']
