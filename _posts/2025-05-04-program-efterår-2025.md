@@ -1,6 +1,6 @@
 ---
 title: Efterårsprogram 2025
-image: https://github.com/coding-pirates-nyborg/coding-pirates-nyborg.github.io/tree/main/assets/img/cplogolille.jpg
+image: 'https://chirpy-img.netlify.app/commons/devices-mockup.png'
 description: >-
   Vores tanker omkring efterårssæson 2025 i Coding Pirates Nyborg
 author: kaptajn
