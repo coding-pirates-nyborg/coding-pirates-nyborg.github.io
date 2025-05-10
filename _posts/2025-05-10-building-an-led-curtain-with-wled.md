@@ -1,5 +1,6 @@
 ---
 title: Building an LED Curtain with WLED
+image: https://img.youtube.com/vi/9DqVpScO-xQ/0.jpg    
 description: >-
   None
 author: kaptajn
