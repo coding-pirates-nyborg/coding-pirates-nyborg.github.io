@@ -5,7 +5,7 @@ image:
 description: >-
   Vores tanker omkring efterårssæson 2025 i Coding Pirates Nyborg
 author: kaptajn
-date: 2025-05-04 12:52:00 +0200
+date: 2025-05-04 15:36:00 +0200
 categories: [Blogging, News]
 tags: ['2025', efterår]
 pin: true
