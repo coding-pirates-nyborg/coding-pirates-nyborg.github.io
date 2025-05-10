@@ -1,6 +1,6 @@
 ---
 title: Building an LED Curtain with WLED
-image: https://img.youtube.com/vi/9DqVpScO-xQ/1.jpg    
+image: https://img.youtube.com/vi/9DqVpScO-xQ/0.jpg    
 description: >-
   This video shows a complete build of a DIY LED curtain using an ESP32 and WLED that rivals many retail versions.
 author: kaptajn
