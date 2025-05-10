@@ -25,3 +25,5 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+{% include embed/youtube.html id='EaEFMf-Zj1A' %}
