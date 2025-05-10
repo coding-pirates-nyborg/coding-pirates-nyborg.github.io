@@ -6,6 +6,7 @@ categories: [Blogging, Camping]
 tags: [Bornhack, CodingPirates]
 image:
  path: /assets/img/bornhack-2024-logo.webp
+pin: false
 ---
 
 Oplæg til Coding Pirates deltagelse på Bornhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre praktikaliteter har jeg lavet dette oplæg. Oplægget er tentativt, men kan danne grundlag for den endelige deltagelse, form og layout. Oplægget er lavet på dansk. Men af hensyn til deltagernes forskellige nationaliteter, er engelsk foretrukket.
