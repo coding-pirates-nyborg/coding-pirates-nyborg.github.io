@@ -1,13 +1,13 @@
 ---
 title: Efterårsprogram 2025
+image:
+  path: /assets/img/kaptajn/pictures/CP-1200x630.webp
 description: >-
   Vores tanker omkring efterårssæson 2025 i Coding Pirates Nyborg
 author: kaptajn
 date: 2025-05-04 12:52:00 +0200
 categories: [Blogging, News]
 tags: ['2025', efterår]
-image:
-  path: /assets/img/kaptajn/pictures/CP-1200x630.png
 pin: true
 media_subpath: '/posts/20250504'
 ---
