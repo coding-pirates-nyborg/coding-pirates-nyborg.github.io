@@ -1,5 +1,7 @@
 ---
-title: Personalized message board using WLED and Home Assistant
+title: Personalized message board using WLED and Home 
+image: https://img.youtube.com/vi/ZlYSjxx5IRc/0.jpg
+Assistant
 description: >-
   None
 author: kaptajn
