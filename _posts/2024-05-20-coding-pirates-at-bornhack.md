@@ -5,7 +5,7 @@ date: 2024-05-20 20:00:00 +0100
 categories: [Blogging, Camping]
 tags: [Bornhack, CodingPirates]
 image:
- path: /assets/img/bornhack-2024-logo.webp
+ path: /tree/main/assets/img/bornhack-2024-logo.webp
 pin: false
 ---
 
