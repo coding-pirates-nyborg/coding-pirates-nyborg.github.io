@@ -6,7 +6,8 @@ author: kaptajn
 date: 2025-05-04 12:52:00 +0200
 categories: [Blogging, News]
 tags: ['2025', efterår]
-image: /assets/img/kaptajn/pictures/CP-1200x630.png
+image:
+  path: /assets/img/kaptajn/pictures/CP-1200x630.png
 pin: true
 media_subpath: '/posts/20250504'
 ---
