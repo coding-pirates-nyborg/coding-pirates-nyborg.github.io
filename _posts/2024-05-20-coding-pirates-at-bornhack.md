@@ -4,7 +4,6 @@ description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
 date: 2024-05-20 20:00:00 +0100
 categories: [Blogging, Camping]
 tags: [Bornhack, CodingPirates]
-image: 'https://github.com/Kaptajn-git/Kaptajn-git.github.io/tree/main/assets/img/bornhack-2024-logo.webp'
 pin: false
 ---
 
