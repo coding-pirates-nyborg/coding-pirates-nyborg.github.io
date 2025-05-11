@@ -1,12 +1,14 @@
 ---
 title: Coding Pirates på BornHack 2024
-description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
-date: 2024-05-20 20:00:00 +0100
-categories: [Blogging, Camping]
-tags: [Bornhack, CodingPirates]
 image: 
   path: /assets/img/headers/bornhack-2024-logo.png
   alt: bornhack 2024
+description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
+author: kaptajn
+date: 2024-05-20 20:00:00 +0200
+categories: [Blogging]
+tags: [bornhack,coding-pirates]
+pin: false
 media_subpath: '/posts/20240520'
 ---
 
