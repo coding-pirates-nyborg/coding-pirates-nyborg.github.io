@@ -1,7 +1,7 @@
 ---
 title: Coding Pirates på BornHack 2024
 image: 
-  path: /assets/img/headers/bornhack-2024-logo.png
+  path: /assets/img/headers/bornhack-2024-logo.webp
   alt: bornhack 2024
 description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
 author: kaptajn
