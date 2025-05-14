@@ -26,7 +26,12 @@ I løbet af sæsonen vil deltagerne blive vejledt i hvordan man tilføjer `Home 
 **Det kunne være:**
 
 Sensorer:
-- Dør, kontakt, temperatur og fugt.
+- Dør
+- Kontakt
+- Temperatur
+- Fugt
+- Lys
+- Bevægelse
 
 Aktive Enheder:
 - Pærer
