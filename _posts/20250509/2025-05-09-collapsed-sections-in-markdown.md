@@ -7,7 +7,6 @@ date: 2025-05-09 22:22:54 +0200
 categories: ['Tutorial']
 tags: ['markdown', 'how-to']
 pin: false
-media_subpath: '/posts/20250509'
 ---
 
 <details>

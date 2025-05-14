@@ -8,7 +8,6 @@ date: 2025-05-10 09:33:56 +0200
 categories: ['Tutorial']
 tags: ['HomeAssistant', 'ESP32', 'WLED']
 pin: false
-media_subpath: '/posts/20250510'
 ---
 
 ## Personalized message board using WLED and Home Assistant

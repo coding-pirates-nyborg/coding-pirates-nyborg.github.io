@@ -8,7 +8,6 @@ date: 2025-05-04 15:36:00 +0200
 categories: [Blogging, News]
 tags: ['2025', efterår]
 pin: true
-media_subpath: '/posts/20250504'
 ---
 
 ## For de `STORE`, `Forældrene` og de `Let Øvede`

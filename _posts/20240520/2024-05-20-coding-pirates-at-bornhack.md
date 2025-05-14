@@ -1,7 +1,7 @@
 ---
 title: Coding Pirates på BornHack 2024
 image: 
-  path: assets/img/headers/bornhack-2024-logo.webp
+  path: /assets/img/headers/bornhack-2024-logo.webp
   alt: bornhack 2024
 description: Oplæg og overvejelser vedr. deltagelse på BornHack 2024.
 author: kaptajn
@@ -9,7 +9,6 @@ date: 2024-05-20 20:00:00 +0200
 categories: [Blogging]
 tags: [bornhack,coding-pirates]
 pin: false
-media_subpath: '/posts/20240520'
 ---
 
 Oplæg til Coding Pirates deltagelse på Bornhack 2024. For at komme omkring diverse overvejelser, spørgsmål og andre praktikaliteter har jeg lavet dette oplæg. Oplægget er tentativt, men kan danne grundlag for den endelige deltagelse, form og layout. Oplægget er lavet på dansk. Men af hensyn til deltagernes forskellige nationaliteter, er engelsk foretrukket.
