@@ -7,7 +7,7 @@ date: 2025-05-14 17:48:31 +0200
 categories: ['News']
 tags: ['workshops', 'python', 'code']
 pin: false
-media_subpath: '/posts/20250514'
+media_subpath: '/_posts/20250514'
 ---
 
 Direkte link til repository [Workshops](https://github.com/coding-pirates-nyborg/workshops)

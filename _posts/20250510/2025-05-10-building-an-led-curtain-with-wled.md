@@ -8,7 +8,7 @@ date: 2025-05-10 07:10:50 +0200
 categories: ['Tutorial']
 tags: ['WLED', 'ESP32']
 pin: false
-media_subpath: '/posts/20250510'
+media_subpath: '/_posts/20250510'
 ---
 
 ## Building an LED Curtain with WLED
