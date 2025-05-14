@@ -47,7 +47,11 @@ Vi kan ikke som i tidligere sæsoner garentere at der er frivillige til at hjæl
 ## KodeCafé
 Vi fortsætter med kodecafé'en, hvor de [^4] kan programmere på deres egne projekter.
 Det vil være muligt at spare med Frey omkring dette :relaxed:
----
-[^1]: [Home Automation - WikiPedia](https://en.wikipedia.org/wiki/Home_automation) <br/>
-[^2]: [Home Assistant](https://www.home-assistant.io/) <br/>
+
+[^1]: [Home Automation - WikiPedia](https://en.wikipedia.org/wiki/Home_automation)
+
+[^2]: [Home Assistant](https://www.home-assistant.io/)
+
 [^3]: [Scratch](https://scratch.mit.edu/)
+
+[^4]: De let øvede og forældrene
