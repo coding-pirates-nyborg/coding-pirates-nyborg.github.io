@@ -41,7 +41,7 @@ Aktive Enheder:
 
 Samt viser hvordan enhederne kan bindes sammen og styre/trigge hinanden.
 
-## For de _*Små*_ og **Ny**begynderne
+## For de _**Små**_ og **Ny**begynderne
 
 Vi kan ikke som i tidligere sæsoner garentere at der er frivillige til at hjælpe de små og nybegynderne. Mød derfor gerne op sammen med dit barn, og lav jeres egne projekter eller brug de vejledninger vi har i foreningen til at dykke ned i
 
