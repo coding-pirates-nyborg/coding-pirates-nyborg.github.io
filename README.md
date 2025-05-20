@@ -1,2 +1,2 @@
 ### Goto site:
-<https://justhack.dk>
+<https://coding-pirates-nyborg.dk>
