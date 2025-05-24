@@ -14,7 +14,7 @@ timezone: Europe/Copenhagen
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: justhack.dk # the main title
+title: coding-pirates-nyborg.dk # the main title
 
 tagline: Coding Pirates Nyborg - Blog for tidligere og igangværende projekter # it will display as the subtitle
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: https://www.justhack.dk
+url: https://www.coding-pirates-nyborg.dk
 github:
   username: coding-pirates-nyborg # change to your GitHub username
 
@@ -34,7 +34,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Coding Pirates Nyborg
-  email: codingpiratesnyborg@justhack.dk # change to your email address
+  email: mail@coding-pirates-nyborg.dk # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
