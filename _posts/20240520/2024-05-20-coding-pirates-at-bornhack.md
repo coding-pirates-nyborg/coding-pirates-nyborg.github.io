@@ -71,4 +71,3 @@ Der er andre udgifter, der skal overvejes ud over billetten. Omkostninger til WS
 
 > Tak til Christel for rettelse af stavefejl og korrekturlæsning 🤗
 {: .prompt-info }
-<!-- markdownlint-restore -->
