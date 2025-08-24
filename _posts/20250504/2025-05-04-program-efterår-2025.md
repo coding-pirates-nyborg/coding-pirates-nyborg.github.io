@@ -6,7 +6,7 @@ description: >-
 author: kaptajn
 date: 2025-05-04 15:36:00 +0200
 categories: [Blogging, News]
-tags: ['2025', efterår]
+tags: ['2025', efterår, nyhed]
 pin: true
 ---
 
