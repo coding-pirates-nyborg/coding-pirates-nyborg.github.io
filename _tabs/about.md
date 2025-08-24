@@ -8,7 +8,7 @@ Coding Pirates Nyborg er en lokal forening drevet af frivillige i og omkring Nyb
 
 Adresse: [Se her](https://www.openstreetmap.org/node/968299144)  
 Mail: [Skriv en mail til os](mailto:mail@coding-pirates-nyborg.dk)  
-Telefon: [Ring til os](callto:+4555604680)  
+Telefon: [Ring til os](tel:+4555604680)  
 > Ikke bemandet i døgndrift da telefonpasseren sover om natten og arbejder om dagen - Send derfor hellere en sms med dit navn og dit ærinde, så vil du blive kontaktet :innocent:
 {: .prompt-info }
 
