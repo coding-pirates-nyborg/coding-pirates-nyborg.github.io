@@ -10,7 +10,16 @@ tags: ['2025', efterår]
 pin: true
 ---
 
+### Opdatering 24-08-25
+
+> _Vi afventer nye lokationer da vi ikke som i tidligere sæsoner kan være på SAJL.
+Det vi ved er at det bliver søndage fra 11:00 - 15:00. Det er ikke tvunget at være der så længe, men vi ser helst at i kommer til start i stedet for at komme dryssende._
+
+Yderligere information følger ASAP her på siden :rocket: - Vi glæder os til at se jer alle.
+
 ## For de `STORE`, `Forældrene` og de `Let Øvede`
+
+---
 
 I efterårssæsonen sætter vi, for de let øvede, fokus på `Home Automation`[^1] Hvor vi starter med at installere Home Assistant [^2]
 
@@ -45,8 +54,6 @@ Samt viser hvordan enhederne kan bindes sammen og styre/trigge hinanden.
 Vi kan ikke som i tidligere sæsoner garentere at der er frivillige til at hjælpe de små og nybegynderne. Mød derfor gerne op sammen med dit barn, og lav jeres egne projekter eller brug de vejledninger vi har i foreningen til at dykke ned i
 
 - Kodning i `Scratch`[^3]
-- LegoWedo
-- osv...
 
 ## KodeCafé
 Vi fortsætter med kodecafé'en, hvor de [^4] kan programmere på deres egne projekter.
