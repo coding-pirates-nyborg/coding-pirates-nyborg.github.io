@@ -15,7 +15,7 @@ pin: true
 Vi har fundet lokaler - Det bliver på Vestvold, Kgs. Bastionsvej 2 st.
 Vi mødes søndage fra 11:00 - 15:00. Første gang d. 07-09-2025. Vi ser helst at i kommer til start i stedet for at komme dryssende. Til gengæld er der ingen forventning om at i bliver alle 4 timer medmindre i har lyst :smile:
 
-> Vi kører prøvetimer for dem der ikke er helt sikre på om det er noget for dem de 2 første søndage i September. Herefter vil indmeldese via [medlemssystemet](www.members.codingpirates.dk) være et krav for deltagelse sæsonen ud.
+> Vi kører prøvetimer for dem der ikke er helt sikre på om det er noget for dem de 2 første søndage i September. Herefter vil indmeldese via [medlemssystemet](https://members.codingpirates.dk/) være et krav for deltagelse sæsonen ud.
 
 Vi glæder os til at se jer alle :rocket:
 
